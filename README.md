@@ -10,7 +10,7 @@
 
 # ¿Qué es TempMail? 
 
-TempMail es una herramienta que genera un correo temporal utilizando w3m para ejecutar la página web de correos temporales mas conocida como "TempMail" desde Termux.
+TempMail es una herramienta que genera un correo temporal utilizando w3m para ejecutar la página web de correos temporales mas conocida como "TEMPMAIL" desde Termux.
 
 # Instalación 
 
