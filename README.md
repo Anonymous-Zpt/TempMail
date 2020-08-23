@@ -22,3 +22,5 @@ TempMail es una herramienta que genera un correo temporal utilizando w3m para ej
 * ` cd TempMail `
 * ` chmod +x *`
 * ` bash Tempmail `
+
+Esto sería todo nuestro correo se habrá generado automáticamente. 
