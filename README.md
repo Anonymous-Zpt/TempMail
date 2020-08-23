@@ -1,5 +1,5 @@
 # TempMail
-![UrlWeb](https://github.com/Anonymous-Zpt/Archivos/TempMail.png) 
+![TempMail](https://github.com/Anonymous-Zpt/Archivos/TempMail.jpg) 
 <a href="https://github.com/Anonymous-Zpt"><img title="Author" src="https://img.shields.io/badge/Author-Anonymous%20Zpt-svg?style=for-the-badge&logo=github"></a>
 <div align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-0.1-green.svg?style=flat-square"></a>
